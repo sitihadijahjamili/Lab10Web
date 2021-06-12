@@ -17,6 +17,8 @@ Kemudian membuat form.php
 ![lab10  2 ke 2](https://user-images.githubusercontent.com/56400200/121762406-d8872800-cb5f-11eb-85b2-faf4017ee183.PNG)
 Selanjutnya membuat file baru dengan menamakan form_input.php
 ![Lab10  3](https://user-images.githubusercontent.com/56400200/121762458-43d0fa00-cb60-11eb-9ca8-6f1786e0b504.PNG)
+![Lab10  3 (1)](https://user-images.githubusercontent.com/56400200/121762530-a629fa80-cb60-11eb-8002-03f080351a4d.PNG)
+
 
 
 
