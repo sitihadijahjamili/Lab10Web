@@ -13,6 +13,9 @@ Buatlah file baru dengan menamakan mobil.php
 ![lab10  1(2)](https://user-images.githubusercontent.com/56400200/121762321-4c750080-cb5f-11eb-9f4e-c6fc5cd403da.PNG)
 
 Kemudian membuat form.php
+![lab10  2](https://user-images.githubusercontent.com/56400200/121762366-a1b11200-cb5f-11eb-9e9d-601a0f2e0961.PNG)
+
+
 
 
 
